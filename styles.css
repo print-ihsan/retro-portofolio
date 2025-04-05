@@ -202,15 +202,15 @@ body::before {
 }
 
 .teal {
-  background-color: #123524;
+  background-color: #3D5300;
 }
 
 .yellow {
-  background-color: #123524;
+  background-color: #3D5300;
 }
 
 .pink-bg {
-  background-color: #123524;
+  background-color: #3D5300;
 }
 
 .card-header {
@@ -266,7 +266,7 @@ body::before {
 .bullet {
   width: 12px;
   height: 12px;
-  background-color: #ffd166;
+  background-color: #6EC207;
   border: 1px solid black;
 }
 
@@ -307,11 +307,11 @@ body::before {
 }
 
 .yellow-bg {
-  background-color: #123524;
+  background-color: #3E7B27;
 }
 
 .teal-bg {
-  background-color: #123524;
+  background-color: #3D5300;
 }
 
 .projects-grid {
